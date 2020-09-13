@@ -1,0 +1,42 @@
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe.config
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.pdb
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form1.resources
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Properties.Resources.resources
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.exe
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.pdb
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form2.resources
+C:\Users\Admin\Downloads\New folder\mybook.si\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe.config
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.pdb
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form1.resources
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form2.resources
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Properties.Resources.resources
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.exe
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.pdb
+C:\Users\Admin\Downloads\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csprojAssemblyReference.cache
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe.config
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.pdb
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form1.resources
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form2.resources
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Properties.Resources.resources
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.GenerateResource.cache
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.CoreCompileInputs.cache
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.exe
+C:\New folder\Apps\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.pdb
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe.config
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.exe
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\bin\x64\Release\NEW DEVICE.pdb
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form1.resources
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Form2.resources
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW_DEVICE.Properties.Resources.resources
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.GenerateResource.cache
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.csproj.CoreCompileInputs.cache
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.exe
+C:\APPS\NEW DEVICE\NEW DEVICE\NEW DEVICE\obj\x64\Release\NEW DEVICE.pdb
